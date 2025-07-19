@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# VS Code settings
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Python environment
+.env.*
+!.env.sample
+
+# Input/output samples
+input.md.*
+!input.md.sample
+
+# Output files (do not ignore actual output.md)
+# output.md.*
+
+# Ignore everything in this section except the real files
+# (do not ignore .env, input.md, output.md)

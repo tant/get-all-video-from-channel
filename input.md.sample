@@ -1,0 +1,13 @@
+# input.md.sample for YouTube Channel Video Collector
+#
+# Copy this file to input.md and add your YouTube channel links below.
+# Only lines starting with http:// or https:// will be processed.
+# You can add comments, blank lines, or section headers as you like.
+#
+# Example:
+
+# My favorite YouTube channels
+https://www.youtube.com/@ManuAGI
+https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw
+
+# You can add more channels below

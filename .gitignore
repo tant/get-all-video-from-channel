@@ -15,6 +15,7 @@ ENV/
 .DS_Store
 
 # Python environment
+.env
 .env.*
 !.env.sample
 
@@ -26,4 +27,4 @@ input.md.*
 # output.md.*
 
 # Ignore everything in this section except the real files
-# (do not ignore .env, input.md, output.md)
+# (do not ignore .env.sample, input.md.sample, output.md)
